@@ -1,0 +1,50 @@
+header {
+  background: #1c1c1c;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+header input {
+  padding: 0.25rem;
+}
+
+main {
+  margin: 3rem auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+
+.agregar-colaborador {
+  margin-bottom: 3rem;
+}
+
+.agregar-colaborador form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.agregar-colaborador h3 {
+  margin-bottom: 1rem;
+}
+
+.agregar-colaborador input {
+  padding: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.agregar-colaborador button {
+  max-width: 200px;
+}
+
+ul {
+  padding-left: 2rem;
+  margin-top: 1rem;
+}
+
+.sin-resultados {
+  margin-top: 2rem;
+}
